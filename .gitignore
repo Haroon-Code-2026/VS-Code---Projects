@@ -1,0 +1,6 @@
+venv_environment_setup/
+.venv/
+.ds_store
+__pycache__/
+*.pyc
+test.py
